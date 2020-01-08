@@ -1,0 +1,17 @@
+.project
+*~
+*#
+\#*
+bin/*
+.bundle/*
+/tmp/
+play/*.sh
+examples/
+rspec.log
+.vagrant
+coverage/
+.*env
+/public/files/
+.rake_tasks
+/.docker/
+vendor/
